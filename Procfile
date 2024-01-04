@@ -1,0 +1,1 @@
+web gunicorn dcrm.wsgi:application --log-file -
